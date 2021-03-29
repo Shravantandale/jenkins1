@@ -1,2 +1,3 @@
 ifconfig
 echo "first"
+cal
